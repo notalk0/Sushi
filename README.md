@@ -1,3 +1,5 @@
 # Sushi
 
-This project is learning materials.
+This is a learning project.
+
+Source: https://www.youtube.com/watch?v=THDZW96GQaI
